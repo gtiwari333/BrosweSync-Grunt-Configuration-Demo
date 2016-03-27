@@ -1,4 +1,4 @@
-## BroswerSync Configuration Demo Project
+## BrowserSync Configuration Demo Project
 
 ###Utilizes BrowserSync and Watch grunt tasks
 
